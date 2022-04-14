@@ -21,7 +21,6 @@
     "webpack-cli": "^4.7.0"
   },
   "dependencies": {
-    "bison-lib": "file:bison-lib-1.0.0.tgz",
     "lodash": "^4.17.21"
   }
 }
